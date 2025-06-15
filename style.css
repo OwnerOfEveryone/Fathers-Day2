@@ -1,0 +1,48 @@
+body {
+  background: #2A7B9B;
+background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 69%, rgba(237, 221, 83, 1) 100%);
+  font-family: 'Homemade Apple';
+  padding: 40px;
+  color: #3e2f1c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+
+.letter-container {
+  background-color: rgba(255, 255, 255, 0.597);
+  padding: 40px;
+  max-width: 800px;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  line-height: 2;
+  font-size: 1.2rem;
+  border: 1px solid #d8cdb9;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+p {
+  margin-bottom: 1.5rem;
+}
+
+.signature {
+  margin-top: 3rem;
+  text-align: right;
+}
+
+.signature span {
+  font-size: 1.5rem;
+}
+footer {
+  margin-top: auto;
+  padding-top: 2rem;
+  font-size: 0.9rem;
+  color: #454545;
+}
